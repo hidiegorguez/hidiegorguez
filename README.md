@@ -1,5 +1,5 @@
-<h1 align="center">Mathematical Engineer</h1>
-<h3 align="center">Operational Researcher | Python Programmer | Data Analyst</h3>
+<h1 align="center">Data Scientist</h1>
+<h3 align="center">Mathematician | Advertising Algorithm Developer | Data Analyst</h3>
 
 - 🔭 I’m currently working on Publicis Groupe
 
