@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hidiegorguez](https://github.com/hidiegorguez)
 
-- 📫 How to reach me *hidiegorguez@gmail.com*
+- 📫 How to reach me *diegorodgar17@gmail.com*
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hidiegorguez/](https://www.linkedin.com/in/hidiegorguez/)
 
