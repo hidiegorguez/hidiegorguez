@@ -1,5 +1,5 @@
 <h1 align="center">Diego Rodríguez</h1>
-<h3 align="center">Data Scientist | Mathematician | Advertising Algorithm Developer</h3>
+<h3 align="center">Data Scientist | Mathematician </h3>
 
 - 🔭 I’m currently working on [Publicis Groupe](https://www.publicisgroupe.com/fr/splash)
 
