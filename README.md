@@ -1,5 +1,5 @@
 <h1 align="center">Diego Rodríguez</h1>
-<h3 align="center">Full-Stack Developer | Machine Learning Engineer</h3>
+<h3 align="center">Data Scientist | Mathematician | Full-Stack Developer</h3>
 <p align="center">Building production-ready full-stack applications and ML solutions with real-world data</p>
 
 - 🔭 I’m currently working on [Publicis Groupe](https://www.publicisgroupe.com/fr/splash)
@@ -8,7 +8,7 @@
 
 - 🤖 I develop **machine learning projects with real-world data**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hidiegorguez](https://github.com/hidiegorguez)
+- 👨‍💻 Some of my projects are available at [https://github.com/hidiegorguez](https://github.com/hidiegorguez)
 
 - 📫 How to reach me **diegorodgar17@gmail.com**
 
