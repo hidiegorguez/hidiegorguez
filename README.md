@@ -1,8 +1,6 @@
 <h1 align="center">Diego Rodríguez</h1>
 <h3 align="center">Data Scientist | Mathematician | Full-Stack Developer</h3>
-<p align="center">Building production-ready full-stack applications and ML solutions with real-world data</p>
-
-- 🔭 I’m currently working on [Publicis Groupe](https://www.publicisgroupe.com/fr/splash)
+- 🔭 I'm currently working on [Publicis Groupe](https://www.publicisgroupe.com/fr/splash) as a **Data Scientist**
 
 - 🚀 I build **full-stack projects independently and deploy them to production**
 
