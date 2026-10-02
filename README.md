@@ -1,11 +1,11 @@
 <h1 align="center">Diego Rodríguez</h1>
-<h3 align="center">Data Scientist | Mathematician</h3>
+<h3 align="center">Data Engineer | Mathematician</h3>
 
-- 🔭 I'm currently working on [Publicis Groupe](https://www.publicisgroupe.com/fr/splash) as a **Data Scientist**
+- 🔭 I'm currently working on [Kyndryl]([https://www.publicisgroupe.com/fr/splash](https://www.kyndryl.com/es/es?utm_medium=paid-search&utm_source=google&utm_content=other&utm_term=kyndryl&utm_campaign=KNAWW&gad_source=1&gad_campaignid=15456125895&gbraid=0AAAAArA7SN8Jun1fqnzFTGqlM-TxmvwNz&gclid=CjwKCAjwrP3VBhBbEiwAnaqpQ5ty3zT4ClcexQyYB05dzIE90AGyIvE-mCMvaV5oypx3KAPLAxY9yRoCBV8QAvD_BwE)) as a **Data Engineer**
 
 - 🚀 I build **full-stack projects independently and deploy them to production**
 
-- 🤖 I develop **machine learning projects with real-world data**
+- 🤖 I develop **machine learning models with real-world data**, **JAMStack web pages** and personal projects **automations**.
 
 - 👨‍💻 Some of my projects are available at [https://github.com/hidiegorguez](https://github.com/hidiegorguez)
 
